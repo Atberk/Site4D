@@ -45,7 +45,7 @@ Uygulama profesyonel kullanım için tasarlanmıştır ve 13 yaşın altındaki 
 Bu politika güncellendiğinde yeni sürüm bu sayfada yayınlanır ve "Son güncelleme" tarihi değiştirilir.
 
 10. İletişim
-Sorularınız için: ataberksungur97@gmail.com
+Sorularınız için: ataberksungur@icloud.com
 
 Şantiye Takip — Privacy Policy
 Last updated: September 13, 2026 · Developer: Ataberk Sungur
@@ -86,4 +86,4 @@ The App is intended for professional use and is not directed at children under 1
 Updates to this policy are published on this page and the "Last updated" date is revised.
 
 10. Contact
-ataberksungur97@gmail.com
+ataberksungur@icloud.com
